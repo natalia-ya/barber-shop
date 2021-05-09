@@ -1,0 +1,24 @@
+body {
+    font-size: 25px;
+}
+
+.container {
+    width: 1920px;
+}
+
+.header .container{
+    display: flex;
+}
+
+.menu {
+    display: flex;
+}
+
+.btn-list {
+    display: flex;
+}
+
+.menu a {
+    display: block;
+    padding: 67px 14px 8px; 
+}
